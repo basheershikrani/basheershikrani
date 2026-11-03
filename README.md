@@ -1,4 +1,21 @@
+Hi 👋, I'm Basheer Ahmad
 
+🚀 Aspiring DevOps & AIOps Engineer | Linux | Python | Shell Scripting | AWS
+
+I'm passionate about Linux System Administration, Python Programming, Shell Scripting, Cloud Computing, and Automation. I'm continuously learning and building my technical skills.
+
+📍 Pakistan 🇵🇰
+
+📧 Email: basheershikrani@gmail.com
+
+- 🔭 Currently Working On: Linux Administration & Automation Projects
+- 🌱 Currently Learning: AWS Cloud Computing, DevOps & AIOps
+- 👯 Looking to Collaborate On: Linux, Python & Automation Projects
+- 💬 Ask Me About: Linux, Python, Shell Scripting & AWS Basics
+- 📫 How to Reach Me: basheershikrani@gmail.com
+- 🎯 Career Goal: Become a Professional DevOps / AIOps Engineer
+- ⚡ Fun Fact: I Love Linux, Python, Shell Scripting and Cloud Technology!
+- 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/basheershikrani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/basheershikrani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basheershikrani@gmail.com) 
 
